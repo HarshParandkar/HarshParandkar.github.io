@@ -35,6 +35,7 @@ To view the website locally, follow these steps:
 
 1. **Clone the Repository.**
 2. **Navigate to the Project Directory.**
-3. **Run the Flask Application: If you're using Flask to serve the website, run using 'python app.py' in command prompt.**
-4. **Open in Browser: Open your web browser and go to http://localhost:5000/ to view the portfolio.**
+3. **Make sure to save the css file and html file in new folders 'static' and 'templates' respectively.**
+4. **Run the Flask Application: If you're using Flask to serve the website, run using 'python app.py' in command prompt.**
+5. **Open in Browser: Open your web browser and go to http://localhost:5000/ to view the portfolio.**
 
