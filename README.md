@@ -20,7 +20,7 @@ This is my personal portfolio website, showcasing my projects, skills, and exper
 
 ## Projects Included
 
-### 1. Income Inequality Index
+### 1. Income Inequality Indicator
 A Machine Learning model to predict income inequality using the Gini Index, analyzing population classes for accurate assessments. This project focuses on understanding socio-economic disparities and offers insights into potential policy implications based on the predicted inequality levels.
 
 ### 2. Sentiment Analysis Model
