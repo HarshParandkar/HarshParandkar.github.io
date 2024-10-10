@@ -20,13 +20,16 @@ This is my personal portfolio website, showcasing my projects, skills, and exper
 
 ## Projects Included
 
-### 1. Sentiment Analysis Model
+### 1. Income Inequality Index
+A Machine Learning model to predict income inequality using the Gini Index, analyzing population classes for accurate assessments. This project focuses on understanding socio-economic disparities and offers insights into potential policy implications based on the predicted inequality levels.
+
+### 2. Sentiment Analysis Model
 A machine learning model designed to analyze and classify the sentiment expressed in text data, making it useful for applications like customer feedback analysis and social media monitoring.
 
-### 2. To-Do List with Voice Recognition
+### 3. To-Do List with Voice Recognition
 A productivity application that allows users to manage tasks using voice commands, leveraging speech recognition technology for a hands-free experience.
 
-### 3. Ping Pong Game
+### 4. Ping Pong Game
 A simple browser-based game built using JavaScript, HTML, and CSS, featuring a classic two-player setup with smooth animations and responsive controls.
 
 ## Getting Started
