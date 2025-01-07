@@ -32,6 +32,12 @@ A productivity application that allows users to manage tasks using voice command
 ### 4. Ping Pong Game
 A simple browser-based game built using JavaScript, HTML, and CSS, featuring a classic two-player setup with smooth animations and responsive controls.
 
+### 5. HangMan Movie Guessing Game
+The Hangman game is a movie title guessing game where players try to uncover a hidden movie title by guessing letters within a limited number of attempts.
+
+### 6. Speech to Text, Text to Speech
+Speech-to-Text and Text-to-Speech project enables seamless voice-to-text conversion for transcribing spoken words and text-to-voice synthesis for auditory output, enhancing accessibility and communication. It integrates natural language processing and speech synthesis technologies for a user-friendly and efficient experience.
+
 ## Getting Started
 
 To view the website locally, follow these steps:
