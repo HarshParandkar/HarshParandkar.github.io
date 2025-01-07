@@ -42,3 +42,4 @@ To view the website locally, follow these steps:
 4. **Run the Flask Application: If you're using Flask to serve the website, run using 'python app.py' in command prompt.**
 5. **Open in Browser: Open your web browser and go to http://localhost:5000/ to view the portfolio.**
 
+Alternatively, you can follow this link to view my portfolio: https://harshparandkar.github.io/
